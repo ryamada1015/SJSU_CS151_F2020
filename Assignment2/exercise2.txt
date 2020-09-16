@@ -1,0 +1,7 @@
+Integer is a class that implements different methods to give flexibility in using an int data while int is only a data type.
+Benefits of using Integer:
+- It can perform various operations to change its value on an int data such as reverse() and rotateLeft(0.
+- String can be converted to an int value.
+- Integer objects can be used in collections like ArrayList and Queue.
+- It can convert an int value to other base such as binary and hexadecimal.
+The primitive int only takes 32 bits while Integer takes 128 bits so int is useful when you don't need to perform operations above.
